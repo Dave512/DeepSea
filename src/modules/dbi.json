@@ -14,7 +14,7 @@
         },
         {
             "action": "move",
-            "source": "DBI_zhcn.nro",
+            "source": "DBI.nro",
             "destination": "switch/DBI/DBI.nro"
         }
     ]
